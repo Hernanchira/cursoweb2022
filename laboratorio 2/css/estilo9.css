@@ -1,47 +1,45 @@
 .contenedor{
-    width:1280px ;
+    width: 1280px;
     height: 800px;
-    background-color: #1EAAF1;
-    margin: auto;
+    background-color: #1eaaf1;
 }
 header{
     width: 1280px;
     height: 210px;
-    background-color: #E2202C;
+    background-color: #e2202c;
 }
 nav{
     width: 250px;
     height: 540px;
-    background-color: #35B736;
+    background-color: #35b736;
 }
-main{
-    width: 750px;
+main{width: 750px;
     height: 540px;
-    background-color: #FD9727;
+    background-color: #fd9727;
     margin-left: 250px;
     margin-top: -540px;
 }
 .anuncio1{
-    width:280px;
+    width: 280px;
     height: 180px;
     background-color: #673FB4;
     margin-left: 1000px;
     margin-top: -540px;
 }
 .anuncio2{
-    width:280px;
+    width: 280px;
     height: 180px;
     background-color: #999999;
     margin-left: 1000px;
 }
 .anuncio3{
-    width:280px;
+    width: 280px;
     height: 180px;
-    background-color: #9A2FAE;
+    background-color: #9a2fae;
     margin-left: 1000px;
 }
 footer{
     width: 1280px;
     height: 50px;
-    background-color: #FEE94E;
+    background-color: #fee94e;
 }
